@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <championship name="localfile" parser="XML">
+        <localFile>Championship.xml</localFile>
+    </championship>
+    <championship name="EuroGB" parser="XML">
+        <localFile>EuroGB.xml</localFile>
+    </championship>
+    <championship name="Euro_2012-GpB" parser="XML">
+        <url>http://www.jrcourtois.net/dls/Euro2012GB.xml</url>
+    </championship>
+    <championship name="Euro_2012-GpC" parser="XML">
+        <url>http://www.jrcourtois.net/dls/Euro2012GC.xml</url>
+    </championship>
+    <championship name="Euro_2012-GpD" parser="XML">
+        <url>http://www.jrcourtois.net/dls/Euro2012GD.xml</url>
+    </championship>
+    <championship name="Ligue 1 - MaxiFoot" parser="MaxiFoot">
+        <url>calendrier-ligue1.htm</url>
+    </championship>
+    <championship name="Ligue 1 2012 - MaxiFoot" parser="MaxiFoot">
+        <url>calendrier-ligue1-2011-2012.php</url>
+    </championship>
+    <championship name="Ligue 1 2011 - MaxiFoot" parser="MaxiFoot">
+        <url>calendrier-ligue1-2010-2011.php</url>
+    </championship>
+    <championship name="Ligue 1 - MaxiFoot" parser="MaxiFoot">
+        <url>calendrier-ligue1-2009-2010.php</url>
+    </championship>
+</root>

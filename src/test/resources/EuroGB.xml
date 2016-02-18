@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<championship type='Euro'>
+    <match day='09/06/2012'>
+        <homeTeam>Pays-Bas</homeTeam>
+        <awayTeam>Danemark</awayTeam>
+        <score>0-1</score>
+    </match>
+    <match day='09/06/2012'>
+        <homeTeam>Allemagne</homeTeam>
+        <awayTeam>Portugal</awayTeam>
+        <score>1-0</score>
+    </match>
+    <match>
+        <homeTeam>Danemark</homeTeam>
+        <awayTeam>Portugal</awayTeam>
+        <score>2-3</score>
+    </match>
+    <match>
+        <homeTeam>Pays-Bas</homeTeam>
+        <awayTeam>Allemagne</awayTeam>
+        <score>1-2</score>
+    </match>
+    <match>
+        <homeTeam>Danemark</homeTeam>
+        <awayTeam>Allemagne</awayTeam>
+        <score>1-3</score>
+    </match>
+    <match>
+        <homeTeam>Portugal</homeTeam>
+        <awayTeam>Pays-Bas</awayTeam>
+        <score>0-4</score>
+    </match>
+</championship>
