@@ -13,11 +13,11 @@ public class Score {
     /**
      * the home score.
      */
-    private int homeScore;
+    private final int homeScore;
     /**
      * the away score.
      */
-    private int awayScore;
+    private final int awayScore;
 
     /**
      * Constructor.

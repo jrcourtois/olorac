@@ -9,6 +9,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
 import net.jrcourtois.olorac.Match;
+import net.jrcourtois.olorac.Score;
 
 /**
  *
@@ -36,11 +37,11 @@ public class AlternativesMatch implements Iterable<Match> {
             alternates.add(new Match(m));
         } else {
             // home team wins
-            alternates.add(new Match(m, 1, 0));
+            alternates.add(new Match(m, new Score(1, 0)));
             // away team wins
-            alternates.add(new Match(m, 0, 1));
+            alternates.add(new Match(m, new Score(0, 1)));
             // draw
-            alternates.add(new Match(m, 0, 0));
+            alternates.add(new Match(m, new Score(0, 0)));
         }
     }
 
@@ -85,7 +86,7 @@ public class AlternativesMatch implements Iterable<Match> {
         if (home != 0) {
             away = rzer.nextInt(home);
         }
-        return new Match(m, home+1, away);
+        return new Match(m, new Score(home+1, away));
     }
     /**
      * 
@@ -99,7 +100,7 @@ public class AlternativesMatch implements Iterable<Match> {
         if (away !=0 ) {
             home = rzer.nextInt(away);
         }
-        return new Match(m, home, away+1);
+        return new Match(m, new Score(home, away+1));
     }
     /**
      * 
@@ -109,6 +110,6 @@ public class AlternativesMatch implements Iterable<Match> {
     public Match getDraw(Match m) {
         Random rzer = new Random();
         int s = rzer.nextInt(2);
-        return new Match(m, s, s);
+        return new Match(m, new Score(s, s));
     }
 }

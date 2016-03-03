@@ -4,13 +4,13 @@
  */
 package net.jrcourtois.olorac;
 
-import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import net.jrcourtois.olorac.exceptions.TeamNotInMatch;
 
 /**
- *
+ * This class is attached to a team
+ * 
  * @author jrc
  */
 public class Stats {
@@ -66,7 +66,7 @@ public class Stats {
      * @param aTeam the team to build stats on
      */
     public Stats(final Team aTeam) {
-        computeStats(aTeam, aTeam.getPlayedMatches());
+        this(aTeam, aTeam.getPlayedMatches());
     }
 
     /**
@@ -74,7 +74,7 @@ public class Stats {
      * @param t
      * @param list
      */
-    public Stats(Team t, List<Match> list) {
+    public Stats(Team t, Iterable<Match> list) {
         computeStats(t, list);
     }
 
@@ -230,6 +230,7 @@ public class Stats {
 
     /**
      * @param t the team concerned by the stats
+     * @param matches
      */
     private void computeStats(final Team t, final Iterable<Match> matches) {
         for (Match m : matches) {
@@ -263,10 +264,15 @@ public class Stats {
                     homeConcededGoal += m.getScore().getHomeScore();
                     homeScoredGoal += m.getScore().getAwayScore();
                 }
+                computeSpecificStats(m, homeTeam);
             } catch (TeamNotInMatch e) {
                 LOGGER.log(Level.WARNING, "a match {0} not played by team {1}",
                         new Object[]{m.toString(), t.getName()});
             }
         }
+    }
+    
+    protected void computeSpecificStats(Match m, Boolean isHome) {
+        
     }
 }

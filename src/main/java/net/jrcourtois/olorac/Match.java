@@ -57,12 +57,11 @@ public class Match {
      * Copy constructor.
      *
      * @param m the match to copy
-     * @param h the home score
-     * @param a the away score
+     * @param s the score
      */
-    public Match(final Match m, final int h, final int a) {
+    public Match(final Match m, Score s) {
         copyMembers(m);
-        setScore(h, a);
+        score = s;
     }
 
     /**
