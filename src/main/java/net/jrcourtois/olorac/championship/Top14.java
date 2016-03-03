@@ -27,7 +27,7 @@ public class Top14 implements Championship{
     private static final int NB_POINTS_FOR_DRAW = 2;
 
 
-        @Override
+    @Override
     public final int getNbPoints(final Stats s) {
         if (s == null) {
             return 0;

@@ -25,6 +25,9 @@ public final class ChampionshipFactory {
         if (championshipName.equalsIgnoreCase("Handball")) {
             return new Handball();
         }
+        if (championshipName.equalsIgnoreCase("Top14")) {
+            return new Top14();
+        }
         return null;
     }
 }

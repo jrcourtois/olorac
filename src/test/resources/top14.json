@@ -1,0 +1,11 @@
+{
+    "name": "jrc",
+    "type" : "Top14",
+    "matchs" : [
+        {
+            "home" : "Grenoble",
+            "away" : "Racing 92",
+            "score" : [2,0,0,0,2,2,2,5]
+        }
+    ] 
+}

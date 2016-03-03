@@ -13,9 +13,8 @@ public class ParserFactory {
     /**
      * Enum parserType.
      */
-    public enum ParserType {
-
-        XML, MaxiFoot;
+    public static enum ParserType {
+        XML, MaxiFoot, JSON;
     }
     private String name;
     private String tags;
@@ -51,6 +50,8 @@ public class ParserFactory {
                 return new FromXML(url);
             case MaxiFoot:
                 return new MaxiFootCalendar(url);
+            case JSON:
+                return new JsonParser(url);
             default:
                 return null;
         }
