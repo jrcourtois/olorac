@@ -1,0 +1,584 @@
+}}
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{1re}} journée
+<small>''vendredi 21, samedi 22 et dimanche 23 août''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- style="border-bottom:2px solid black;"
+|1||Toulon||{{bonus|left|d}}22||{{bonus|right}}'''27'''||'''Racing 92'''||2
+|---- 
+|0||La Rochelle||{{bonus|left}}6||{{bonus|right|o}}'''44'''||'''Clermont'''||5
+|---- 
+|1||'''Bordeaux'''||{{bonus|left}}'''19'''||{{bonus|right|d}}16||Castres||1
+|----
+|3||'''Toulouse'''||{{bonus|left}}'''24'''||{{bonus|right}}7||Brive||1
+|---- 
+|5||'''Montpellier'''||{{bonus|left|o}}'''35'''||{{bonus|right}}19||Oyonnax||1
+|----
+|6||'''Grenoble'''||{{bonus|left|o}}'''38'''||{{bonus|right}}23||Agen||2
+|---- style="border-top:2px solid black;"
+|4||'''Stade Français'''||{{bonus|left}}'''34'''||{{bonus|right}}18||Pau||2
+|}
+
+| width="50%" | 
+;; {{2e}} journée
+<small>''vendredi 28, samedi 29 et dimanche 30 août''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- style="border-bottom:2px solid black;"
+|3||'''Clermont'''||{{bonus|left|o}}'''25'''||{{bonus|right}}6||Grenoble||0
+|---- 
+|0||Agen||{{bonus|left}}9||{{bonus|right}}'''20'''||'''Toulouse'''||2
+|---- 
+|4||'''Oyonnax'''||{{bonus|left|o}}'''37'''||{{bonus|right}}19||Bordeaux||1
+|----
+|2||'''Racing 92'''||{{bonus|left}}'''20'''||{{bonus|right|d}}19||La Rochelle||1
+|---- 
+|1||'''Pau'''||{{bonus|left}}'''26'''||{{bonus|right}}16||Montpellier||2
+|----
+|1||'''Brive'''||{{bonus|left}}'''22'''||{{bonus|right}}13||Stade Français||0
+|---- style="border-top:2px solid black;"
+|3||'''Castres'''||{{bonus|left|o}}'''24'''||{{bonus|right}}9||Toulon||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{3e}} journée
+<small>''samedi 5 et dimanche 6 septembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|2||Oyonnax||{{bonus|left}}24||{{bonus|right|o}}'''41'''||'''Clermont'''||5
+|---- 
+|5||'''Grenoble'''||{{bonus|left|o}}'''41'''||{{bonus|right}}15||Pau||2
+|---- 
+|2||'''La Rochelle'''||{{bonus|left}}'''21'''||{{bonus|right|d}}18||Brive||0
+|----
+|2||'''Agen'''||{{bonus|left}}'''30'''||{{bonus|right}}18||Racing 92||2
+|---- 
+|3||'''Toulouse'''||{{bonus|left}}'''37'''||{{bonus|right}}20||Castres||2
+|---- style="border-top:2px solid black;"
+|1||Bordeaux||{{bonus|left|d}}22||{{bonus|right}}'''24'''||'''Montpellier'''||2
+|---- 
+|1||Stade Français||{{bonus|left}}13||{{bonus|right}}'''20'''||'''Toulon'''||2
+|}
+
+| width="50%" | 
+;; {{4e}} journée
+<small>''vendredi 11, samedi 12 et dimanche 13 septembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- style="border-bottom:2px solid black;"
+|4||'''Castres'''||{{bonus|left}}'''35'''||{{bonus|right}}26||Oyonnax||3
+|----
+|6||'''Toulon'''||{{bonus|left|o}}'''45'''||{{bonus|right}}24||La Rochelle||3
+|---- 
+|2||'''Racing 92'''||{{bonus|left}}'''23'''||{{bonus|right}}14||Grenoble||1
+|---- 
+|6||'''Montpellier'''||{{bonus|left|o}}'''44'''||{{bonus|right}}20||Stade Français||2
+|---- 
+|2||''Clermont''||{{bonus|left}}''26''||{{bonus|right}}''26''||''Bordeaux''||3
+|---- style="border-top:2px solid black;"
+|2||'''Brive'''||{{bonus|left}}'''18'''||{{bonus|right}}12||Agen||0
+|---- 
+|0||'''Pau'''||{{bonus|left}}'''9'''||{{bonus|right|d}}6||Toulouse||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{5e}} journée
+<small>''vendredi 16 et samedi 17 octobre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|5||'''Clermont'''||{{bonus|left|o}}'''35'''||{{bonus|right}}10||Pau||1
+|---- 
+|0||Oyonnax||{{bonus|left}}9||{{bonus|right}}'''18'''||'''Racing 92'''||2
+|---- 
+|5||'''Toulouse'''||{{bonus|left}}'''39'''||{{bonus|right}}22||La Rochelle||3
+|----
+|1||Grenoble||{{bonus|left}}19||{{bonus|right}}'''30'''||'''Montpellier'''||3
+|----
+|1||Agen||{{bonus|left}}16||{{bonus|right}}'''31'''||'''Bordeaux'''||1
+|---- 
+|1||'''Stade Français'''||{{bonus|left}}'''22'''||{{bonus|right}}9||Castres||0
+|---- style="border-top:2px solid black;"
+|2||'''Brive'''||{{bonus|left}}'''29'''||{{bonus|right|d}}26||Toulon||2
+|}
+
+| width="50%" | 
+;; {{6e}} journée
+<small>''vendredi 23 , samedi 24 et dimanche 25 octobre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- style="border-bottom:2px solid black;"
+|2||'''Racing 92'''||{{bonus|left}}'''27'''||{{bonus|right}}18||Stade Français||2
+|---- 
+|3||Castres||{{bonus|left}}23||{{bonus|right}}'''31'''||'''Grenoble'''||3
+|---- 
+|8||'''Toulon'''||{{bonus|left|o}}'''61'''||{{bonus|right}}3||Oyonnax||0
+|---- 
+|0||'''Bordeaux'''||{{bonus|left}}'''12'''||{{bonus|right|d}}10||Toulouse||1
+|----
+|1||Pau||{{bonus|left|d}}13||{{bonus|right}}'''18'''||'''Brive'''||0
+|---- 
+|2||'''Montpellier'''||{{bonus|left}}'''24'''||{{bonus|right|d}}19||Clermont||1
+|---- style="border-top:2px solid black;"
+|3||'''La Rochelle'''||{{bonus|left|o}}'''23'''||{{bonus|right}}6||Agen||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{7e}} journée
+<small>''samedi 31 octobre et dimanche 1 novembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||'''Bordeaux'''||{{bonus|left}}'''21'''||{{bonus|right|d}}16||La Rochelle||1
+|---- 
+|3||'''Agen'''||{{bonus|left}}'''28'''||{{bonus|right|d}}23||Stade Français||2
+|----
+|5||'''Oyonnax'''||{{bonus|left|o}}'''42'''||{{bonus|right}}23||Pau||2
+|---- 
+|2||'''Racing 92'''||{{bonus|left}}'''17'''||{{bonus|right|d}}14||Brive||1
+|----
+|3||Montpellier||{{bonus|left}}25||{{bonus|right}}'''33'''||'''Toulouse'''||3
+|---- 
+|5||'''Clermont'''||{{bonus|left|o}}'''42'''||{{bonus|right}}13||Castres||1
+|---- style="border-top:2px solid black;"
+|3||'''Grenoble'''||{{bonus|left}}'''33'''||{{bonus|right|d}}29||Toulon||4
+|}
+
+| width="50%" | 
+;; {{8e}} journée
+<small>''samedi et dimanche 8 novembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|8||'''Toulon'''||{{bonus|left|o}}'''52'''||{{bonus|right}}8||Montpellier||1
+|---- 
+|4||'''La Rochelle'''||{{bonus|left|o}}'''38'''||{{bonus|right}}3||Oyonnax||0
+|----
+|3||'''Pau'''||{{bonus|left}}'''33'''||{{bonus|right|d}}31||Agen||4
+|---- 
+|1||'''Brive'''||{{bonus|left}}'''16'''||{{bonus|right}}3||Bordeaux||0
+|----
+|8||'''Toulouse'''||{{bonus|left|o}}'''52'''||{{bonus|right}}12||Grenoble||2
+|---- style="border-top:2px solid black;"
+|5||'''Castres'''||{{bonus|left|o}}'''34'''||{{bonus|right}}8||Racing 92||1
+|---- 
+|1||'''Stade Français'''||{{bonus|left}}'''14'''||{{bonus|right|d}}9||Clermont||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{9e}} journée
+<small>''vendredi 27, samedi 28 et dimanche 29 novembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- style="border-bottom:2px solid black;"
+|1||'''Montpellier'''||{{bonus|left}}'''25'''||{{bonus|right|d}}20||La Rochelle||2
+|---- 
+|3||'''Racing 92'''||{{bonus|left}}'''28'''||{{bonus|right}}13||Toulouse||2
+|---- 
+|0||Oyonnax||{{bonus|left}}9||{{bonus|right|o}}'''34'''||'''Brive'''||3
+|----
+|6||'''Bordeaux'''||{{bonus|left|o}}'''46'''||{{bonus|right}}10||Pau||1
+|---- 
+|0||Agen||{{bonus|left|d}}18||{{bonus|right}}'''23'''||'''Castres'''||2
+|---- 
+|0||Clermont||{{bonus|left}}9||{{bonus|right|o}}35||Toulon||4
+|---- style="border-top:2px solid black;"
+|2||Grenoble||{{bonus|left|d}}19||{{bonus|right}}'''21'''||Stade Français||0
+|}
+
+| width="50%" | 
+;; {{10e}} journée
+<small>''vendredi 4, samedi 5 et dimanche 6 décembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||Pau||{{bonus|left}}15||{{bonus|right}}15||Racing 92||0
+|---- style="border-top:2px solid black;"
+|8||'''Toulon'''||{{bonus|left|o}}'''53'''||{{bonus|right}}23||Agen||2
+|----
+|4||'''Castres'''||{{bonus|left|o}}'''34'''||{{bonus|right}}19||Montpellier||1
+|---- 
+|3||'''La Rochelle'''||{{bonus|left}}'''33'''||{{bonus|right}}16||Grenoble||1
+|---- 
+|2||Stade Français||{{bonus|left|d}}21||{{bonus|right}}'''24'''||'''Bordeaux'''||3
+|---- 
+|3||'''Toulouse'''||{{bonus|left|o}}'''27'''||{{bonus|right}}3||Oyonnax||0
+|---- style="border-top:2px solid black;"
+|0||Brive||{{bonus|left|d}}21||{{bonus|right}}'''26'''||'''Clermont'''||2
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{11e}} journée
+<small>''dimanche 27 décembre''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|----
+|1||'''Oyonnax'''||{{bonus|left}}'''25'''||{{bonus|right}}12||Stade Français||0
+|---- 
+|3||'''Bordeaux'''||{{bonus|left}}'''25'''||{{bonus|right}}19||Grenoble||1
+|---- 
+|2||'''Castres'''||{{bonus|left}}'''23'''||{{bonus|right}}8||Brive||1
+|---- 
+|6||'''Montpellier'''||{{bonus|left|o}}'''45'''||{{bonus|right}}20||Agen||2
+|----
+|0||'''Pau'''||{{bonus|left}}'''15'''||{{bonus|right|d}}11||La Rochelle||1
+|---- 
+|1||Clermont||{{bonus|left|d}}16||{{bonus|right}}'''20'''||'''Racing 92'''||2
+|---- 
+|4||'''Toulouse'''||{{bonus|left|o}}'''31'''||{{bonus|right}}8||Toulon||1
+|}
+
+| width="50%" | 
+;; {{12e}} journée
+<small>''samedi 2 et dimanche 3 janvier''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|1||Agen||{{bonus|left}}16||{{bonus|right}}'''33'''||'''Clermont'''||3
+|---- 
+|5||'''Grenoble'''||{{bonus|left|o}}'''42'''||{{bonus|right}}17||Oyonnax||2
+|----
+|1||'''La Rochelle'''||{{bonus|left}}'''25'''||{{bonus|right|d}}21||Castres||2
+|---- 
+|2||'''Racing 92'''||{{bonus|left}}'''23'''||{{bonus|right|d}}18||Bordeaux||0
+|---- 
+|1||'''Brive'''||{{bonus|left}}'''19'''||{{bonus|right|d}}18||Montpellier||0
+|---- style="border-top:2px solid black;"
+|3||'''Toulon'''||{{bonus|left}}'''21'''||{{bonus|right|d}}17||Pau||2
+|----
+|2||'''Stade Français'''||{{bonus|left}}'''18'''||{{bonus|right|d}}17||Toulouse||1
+|}
+{{Clr}}
+|}
+
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{13e}} journée
+<small>''dimanche 14 février, samedi 19 et dimanche 20 mars<ref name="calendrier 13e journée">Initialement prévue le week-end du 9 janvier 2016, la {{13e}} journée du Top 14 est reportée afin de permettre de jouer les matchs de [[Coupe d'Europe de rugby à XV 2015-2016|Coupe d'Europe]] et de [[Challenge européen 2015-2016|Challenge Européen]] annulés à la suite des [[Attentats du 13 novembre 2015 en France|attentats du 13 novembre 2015]]. Le match Bordeaux-Toulon est reporté au 14 février 2016 tandis que le reste des matchs est reprogrammé les 18, 19 et 20 mars soit entre la {{18e}} et la {{19e}} journée.</ref>''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||'''Bordeaux'''||{{bonus|left}}'''15'''||{{bonus|right|d}}12||Toulon||0
+|---- style="border-top:2px solid black;"
+|5||'''Stade Français'''||{{bonus|left|o}}'''33'''||{{bonus|right}}20||La Rochelle||2
+|---- 
+|9||'''Montpellier'''||{{bonus|left|o}}'''60'''||{{bonus|right}}7||Racing 92||1
+|---- 
+|3||'''Oyonnax'''||{{bonus|left}}'''30'''||{{bonus|right|d}}28||Agen||0
+|---- 
+|0||'''Pau'''||{{bonus|left}}'''21'''||{{bonus|right|d}}16||Castres||1
+|---- style="border-top:2px solid black;"
+|2||'''Grenoble'''||{{bonus|left}}'''26'''||{{bonus|right|d}}22||Brive||0
+|----
+|2||'''Clermont'''||{{bonus|left}}'''32'''||{{bonus|right}}23||Toulouse||2
+|}
+{{Clr}}
+|}
+{{boîte déroulante/fin}}
+
+{{boîte déroulante/début
+    |titre=Matchs retour
+    |alignB=center
+    |couleurFondT=transparent
+    |couleurFondB=transparent
+    |arrondi=0.6em
+}}
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{14e}} journée
+<small>''vendredi 29, samedi 30 et dimanche 31 janvier''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|----
+|1||'''Brive'''||{{bonus|left}}'''28'''||{{bonus|right}}6||La Rochelle||0
+|---- style="border-top:2px solid black;"
+|0||Clermont||{{bonus|left|d}}15||{{bonus|right}}'''19'''||'''Montpellier'''||1
+|---- 
+|2||Agen||{{bonus|left}}27||{{bonus|right}}'''33'''||'''Grenoble'''||3
+|---- 
+|1||'''Castres'''||{{bonus|left}}'''19'''||{{bonus|right}}9||Bordeaux||0
+|---- 
+|4||'''Racing 92'''||{{bonus|left|o}}'''26'''||{{bonus|right}}3||Oyonnax||0
+|---- 
+|8||'''Toulouse'''||{{bonus|left|o}}'''54'''||{{bonus|right}}3||Pau||0
+|---- style="border-top:2px solid black;"
+|1||'''Toulon'''||{{bonus|left}}'''23'''||{{bonus|right}}16||Stade Français||1
+|}
+
+| width="50%" | 
+;; {{15e}} journée
+<small>''vendredi 19, samedi 20 et dimanche 21 février''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|3||'''Stade Français'''||{{bonus|left}}'''32'''||{{bonus|right}}17||Brive||17
+|---- style="border-top:2px solid black;"
+|2||Castres||{{bonus|left}}17||{{bonus|right}}'''28'''||'''Clermont'''||3
+|----
+|3||'''Bordeaux'''||{{bonus|left}}'''24'''||{{bonus|right}}19||Agen||1
+|----
+|2||Grenoble||{{bonus|left|d}}35||{{bonus|right|o}}'''39'''||'''Racing 92'''||5
+|---- 
+|1||Montpellier||{{bonus|left|d}}16||{{bonus|right}}'''19'''||'''Pau'''||1
+|---- 
+|1||'''La Rochelle'''||{{bonus|left}}'''28'''||{{bonus|right}}8||Toulouse||1
+|---- style="border-top:2px solid black;"
+|1||Oyonnax||{{bonus|left}}13||{{bonus|right|o}}'''44'''||'''Toulon'''||5
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{16e}} journée
+<small>''samedi 27 et dimanche 28 février''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|6||'''Toulon'''||{{bonus|left|o}}'''44'''||{{bonus|right}}15||Brive||2
+|---- 
+|4||'''Agen'''||{{bonus|left}}'''31'''||{{bonus|right|o}}27||La Rochelle||3
+|----
+|4||'''Clermont'''||{{bonus|left|o}}'''44'''||{{bonus|right}}16||Oyonnax||1
+|---- 
+|0||Pau||{{bonus|left}}3||{{bonus|right}}'''15'''||'''Bordeaux'''||0
+|---- 
+|2||Stade Français||{{bonus|left}}18||{{bonus|right}}'''33'''||'''Grenoble'''||4
+|---- 
+|0||Racing 92||{{bonus|left|d}}9||{{bonus|right}}'''13'''||'''Castres'''||1
+|---- style="border-top:2px solid black;"
+|3||Toulouse||{{bonus|left|d}}29||{{bonus|right}}'''31'''||'''Montpellier'''||3
+|}
+
+| width="50%" | 
+;; {{17e}} journée
+<small>''vendredi 4, samedi 5 et dimanche 6 mars''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|2||Grenoble||{{bonus|left}}12||{{bonus|right|o}}'''45'''||'''Clermont'''||6
+|---- style="border-top:2px solid black;"
+|2||Brive||{{bonus|left}}21||{{bonus|right}}21||Toulouse||2
+|---- 
+|7||'''Bordeaux'''||{{bonus|left|o}}'''48'''||{{bonus|right}}20||Oyonnax||3
+|---- 
+|1||'''Pau'''||{{bonus|left}}'''19'''||{{bonus|right}}12||Stade Français||0
+|---- 
+|5||'''Racing 92'''||{{bonus|left|o}}'''38'''||{{bonus|right}}13||Agen||1
+|----
+|1||'''Montpellier'''||{{bonus|left}}'''22'''||{{bonus|right|d}}19||Castres||0
+|---- style="border-top:2px solid black;"
+|1||'''La Rochelle'''||{{bonus|left}}'''19'''||{{bonus|right}}14||Toulon||1
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{18e}} journée
+<small>''vendredi 11, samedi 12 et dimanche 13 mars''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|1||Toulouse||{{bonus|left}}13||{{bonus|right}}13||Bordeaux||1
+|---- style="border-top:2px solid black;"
+|1||Stade Français||{{bonus|left}}16||{{bonus|right|o}}'''34'''||'''Racing 92'''||4
+|---- 
+|7||'''Castres'''||{{bonus|left|o}}'''50'''||{{bonus|right}}6||Agen||0
+|---- 
+|3||'''Clermont'''||{{bonus|left|o}}'''25'''||{{bonus|right}}6||Brive||0
+|---- 
+|4||'''La Rochelle'''||{{bonus|left|o}}'''35'''||{{bonus|right}}16||Pau||1
+|----
+|6||'''Toulon'''||{{bonus|left|o}}'''38'''||{{bonus|right}}8||Grenoble||1
+|---- style="border-top:2px solid black;"
+|1||Oyonnax||{{bonus|left}}10||{{bonus|right|o}}'''31'''||'''Montpellier'''||4
+|}
+
+| width="50%" | 
+;; {{19e}} journée
+<small>''samedi 26 et dimanche 27 mars''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|----
+|2||Racing 92||{{bonus|left|d}}20||{{bonus|right}}'''21'''||'''Toulon'''||2
+|---- 
+|3||Agen||{{bonus|left}}21||{{bonus|right|o}}'''45'''||'''Montpellier'''||6
+|---- 
+|2||'''Brive'''||{{bonus|left}}'''23'''||{{bonus|right|d}}22||Castres||1
+|----
+|5||'''Grenoble'''||{{bonus|left|o}}'''39'''||{{bonus|right}}23||La Rochelle||2
+|---- 
+|3||'''Pau'''||{{bonus|left|o}}'''25'''||{{bonus|right}}6||Oyonnax||0
+|---- style="border-top:2px solid black;"
+|1||Bordeaux||{{bonus|left|d}}19||{{bonus|right}}'''24'''||'''Clermont'''||0
+|---- 
+|5||'''Toulouse'''||{{bonus|left|o}}'''36'''||{{bonus|right}}3||Stade Français||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{20e}} journée
+<small>''vendredi {{1er}}, samedi 2 et dimanche 3 avril''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|----
+|2||'''Montpellier'''||{{bonus|left}}'''19'''||{{bonus|right}}3||Brive||0
+|---- style="border-top:2px solid black;"
+|0||'''Castres'''||{{bonus|left}}'''15'''||{{bonus|right}}9||Toulouse||0
+|---- 
+|3||Agen||{{bonus|left}}26||{{bonus|right}}'''33'''||'''Pau'''||3
+|---- 
+|3||Oyonnax||{{bonus|left}}20||{{bonus|right}}'''27'''||'''Grenoble'''||2
+|---- 
+|2||'''La Rochelle'''||{{bonus|left}}'''21'''||{{bonus|right}}18||Stade Français||0
+|----
+|2||Bordeaux||{{bonus|left}}20||{{bonus|right}}'''28'''||'''Racing 92'''||3
+|---- style="border-top:2px solid black;"
+|0||Toulon||{{bonus|left|d}}18||{{bonus|right}}'''19'''||'''Clermont'''||1
+|}
+
+| width="50%" | 
+;; {{21e}} journée
+<small>''samedi 16 avril''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||La Rochelle||{{bonus|left}}-||{{bonus|right}}-||Bordeaux||0
+|---- 
+|0||Toulouse||{{bonus|left}}-||{{bonus|right}}-||Racing 92||0
+|---- 
+|0||Pau||{{bonus|left}}-||{{bonus|right}}-||Toulon||0
+|----
+|0||Brive||{{bonus|left}}-||{{bonus|right}}-||Oyonnax||0
+|---- 
+|0||Grenoble||{{bonus|left}}-||{{bonus|right}}-||Castres||0
+|----
+|0||Clermont||{{bonus|left}}-||{{bonus|right}}-||Agen||0
+|---- 
+|0||Stade Français||{{bonus|left}}-||{{bonus|right}}-||Montpellier||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{22e}} journée
+<small>''samedi 30 avril''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||Montpellier||{{bonus|left}}-||{{bonus|right}}-||Grenoble||0
+|---- 
+|0||Toulon||{{bonus|left}}-||{{bonus|right}}-||Toulouse||0
+|---- 
+|0||Bordeaux||{{bonus|left}}-||{{bonus|right}}-||Stade Français||0
+|----
+|0||Oyonnax||{{bonus|left}}-||{{bonus|right}}-||La Rochelle||0
+|---- 
+|0||Castres||{{bonus|left}}-||{{bonus|right}}-||Pau||0
+|----
+|0||Racing 92||{{bonus|left}}-||{{bonus|right}}-||Clermont||0
+|---- 
+|0||Agen||{{bonus|left}}-||{{bonus|right}}-||Brive||0
+|}
+
+| width="50%" | 
+;; {{23e}} journée
+<small>''samedi 7 mai''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||Toulouse||{{bonus|left}}-||{{bonus|right}}-||Agen||0
+|---- 
+|0||Brive||{{bonus|left}}-||{{bonus|right}}-||Racing 92||0
+|---- 
+|0||Pau||{{bonus|left}}-||{{bonus|right}}-||Clermont||0
+|----
+|0||La Rochelle||{{bonus|left}}-||{{bonus|right}}-||Montpellier||0
+|---- 
+|0||Grenoble||{{bonus|left}}-||{{bonus|right}}-||Bordeaux||0
+|----
+|0||Toulon||{{bonus|left}}-||{{bonus|right}}-||Castres||0
+|---- 
+|0||Stade Français||{{bonus|left}}-||{{bonus|right}}-||Oyonnax||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{24e}} journée
+<small>''samedi 21 mai''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||Racing 92||{{bonus|left}}-||{{bonus|right}}-||Pau||0
+|---- 
+|0||Agen||{{bonus|left}}-||{{bonus|right}}-||Toulon||0
+|---- 
+|0||Montpellier||{{bonus|left}}-||{{bonus|right}}-||Bordeaux||0
+|----
+|0||Clermont||{{bonus|left}}-||{{bonus|right}}-||Stade Français||0
+|---- 
+|0||Oyonnax||{{bonus|left}}-||{{bonus|right}}-||Toulouse||0
+|----
+|0||Castres||{{bonus|left}}-||{{bonus|right}}-||La Rochelle||0
+|---- 
+|0||Brive||{{bonus|left}}-||{{bonus|right}}-||Grenoble||0
+|}
+
+| width="50%" | 
+;; {{25e}} journée
+<small>''samedi 28 mai''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||La Rochelle||{{bonus|left}}-||{{bonus|right}}-||Racing 92||0
+|---- 
+|0||Oyonnax||{{bonus|left}}-||{{bonus|right}}-||Castres||0
+|---- 
+|0||Toulouse||{{bonus|left}}-||{{bonus|right}}-||Clermont||0
+|----
+|0||Montpellier||{{bonus|left}}-||{{bonus|right}}-||Toulon||0
+|---- 
+|0||Pau||{{bonus|left}}-||{{bonus|right}}-||Grenoble||0
+|----
+|0||Stade Français||{{bonus|left}}-||{{bonus|right}}-||Agen||0
+|---- 
+|0||Bordeaux||{{bonus|left}}-||{{bonus|right}}-||Brive||0
+|}
+{{Clr}}
+|}
+
+{|width="100%" align="center" border="0" cellpadding="0" cellspacing="5" 
+|- valign="top" align="left"
+| width="50%" | 
+;; {{26e}} journée
+<small>''samedi 4 juin''</small>
+{| class="wikitable gauche" cellpadding="0" cellspacing="0" style="font-size:90%;"
+|---- 
+|0||Grenoble||{{bonus|left}}-||{{bonus|right}}-||Toulouse||0
+|---- 
+|0||Toulon||{{bonus|left}}-||{{bonus|right}}-||Bordeaux||0
+|---- 
+|0||Racing 92||{{bonus|left}}-||{{bonus|right}}-||Montpellier||0
+|----
+|0||Brive||{{bonus|left}}-||{{bonus|right}}-||Pau||0
+|---- 
+|0||Agen||{{bonus|left}}-||{{bonus|right}}-||Oyonnax||0
+|----
+|0||Clermont||{{bonus|left}}-||{{bonus|right}}-||La Rochelle||0
+|---- 
+|0||Castres||{{bonus|left}}-||{{bonus|right}}-||Stade Français||0
+|}
+

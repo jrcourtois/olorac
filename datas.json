@@ -1,4 +1,3 @@
-[
 {'home' : 'Toulon' , 'away' : 'Racing 92', 'hScore' : '22', 'aScore' : '27', 'htry' : '1', 'atry' : '2'},
 {'home' : 'La Rochelle' , 'away' : 'Clermont', 'hScore' : '6', 'aScore' : '44', 'htry' : '0', 'atry' : '5'},
 {'home' : 'Bordeaux' , 'away' : 'Castres', 'hScore' : '19', 'aScore' : '16', 'htry' : '1', 'atry' : '1'},
@@ -180,4 +179,4 @@
 {'home' : 'Brive' , 'away' : 'Pau'},
 {'home' : 'Agen' , 'away' : 'Oyonnax'},
 {'home' : 'Clermont' , 'away' : 'La Rochelle'},
-{'home' : 'Castres' , 'away' : 'Stade Français'}]
+{'home' : 'Castres' , 'away' : 'Stade Français'},

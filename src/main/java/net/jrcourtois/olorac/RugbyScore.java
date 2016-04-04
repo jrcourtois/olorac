@@ -10,14 +10,14 @@ package net.jrcourtois.olorac;
  * @author jr
  */
 public class RugbyScore extends Score{
-    public final int homeTryScored;
-    public final int homeTransformationScored;
-    public final int homeDropScored;
-    public final int homePenaltyScored;
-    public final int homeTryConceded;
-    public final int homeTransformationConceded;
-    public final int homeDropConceded;
-    public final int homePenaltyConceded;
+    public final Integer homeTryScored;
+    public final Integer homeTransformationScored;
+    public final Integer homeDropScored;
+    public final Integer homePenaltyScored;
+    public final Integer homeTryConceded;
+    public final Integer homeTransformationConceded;
+    public final Integer homeDropConceded;
+    public final Integer homePenaltyConceded;
     
     public static final int DIFF_TRY = 3;
     public static final int DIFF_POINTS = 4;
@@ -45,6 +45,25 @@ public class RugbyScore extends Score{
         homePenaltyConceded = awayPena;
     }
     
+    /**
+     * 
+     * @param homeScore
+     * @param homeTry
+     * @param awayScore
+     * @param awayTry
+     */
+    public RugbyScore(Integer homeScore, Integer homeTry, Integer awayScore, Integer awayTry) {
+        super(homeScore, awayScore);
+        homeTryScored = homeTry;
+        homeTransformationScored = null;
+        homeDropScored = null;
+        homePenaltyScored = null;
+        homeTryConceded = awayTry;
+        homeTransformationConceded = null;
+        homeDropConceded = null;
+        homePenaltyConceded = null;
+    }
+
     public Boolean getHomeBonusDefensif() {
         if (homeTeamWins() || drawMatch()) {
             return false;

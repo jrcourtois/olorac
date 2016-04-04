@@ -4,6 +4,8 @@
  */
 package net.jrcourtois.olorac.parser;
 
+import net.jrcourtois.olorac.championship.Top14;
+
 /**
  *
  * @author jrc
@@ -14,12 +16,12 @@ public class ParserFactory {
      * Enum parserType.
      */
     public static enum ParserType {
-        XML, MaxiFoot, JSON;
+        XML, MaxiFoot, JSON, RugbyRama;
     }
-    private String name;
-    private String tags;
+    private final String name;
+    private final String tags;
     private String url;
-    private ParserType type;
+    private final ParserType type;
 
     /**
      * Constructor.
@@ -50,8 +52,10 @@ public class ParserFactory {
                 return new FromXML(url);
             case MaxiFoot:
                 return new MaxiFootCalendar(url);
+            case RugbyRama:
+                return new RugbyRama(url);
             case JSON:
-                return new JsonParser(url);
+                return new JsonParser(url, new Top14());
             default:
                 return null;
         }

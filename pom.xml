@@ -35,7 +35,8 @@
     <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20160212</version>
+            <version>20131018</version>
+      <type>jar</type>
     </dependency>
   </dependencies>
 <reporting>
