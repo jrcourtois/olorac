@@ -20,7 +20,7 @@ public class RugbyScore extends Score{
     public final Integer homePenaltyConceded;
     
     public static final int DIFF_TRY = 3;
-    public static final int DIFF_POINTS = 4;
+    public static final int DIFF_POINTS = 5;
 
     /**
      * 
@@ -55,13 +55,13 @@ public class RugbyScore extends Score{
     public RugbyScore(Integer homeScore, Integer homeTry, Integer awayScore, Integer awayTry) {
         super(homeScore, awayScore);
         homeTryScored = homeTry;
-        homeTransformationScored = null;
-        homeDropScored = null;
-        homePenaltyScored = null;
+        homeTransformationScored = 0;
+        homeDropScored = 0;
+        homePenaltyScored = 0;
         homeTryConceded = awayTry;
-        homeTransformationConceded = null;
-        homeDropConceded = null;
-        homePenaltyConceded = null;
+        homeTransformationConceded = 0;
+        homeDropConceded = 0;
+        homePenaltyConceded = 0;
     }
 
     public Boolean getHomeBonusDefensif() {
@@ -82,5 +82,10 @@ public class RugbyScore extends Score{
     }
     public Boolean getAwayBonusOffensif() {
         return ((homeTryConceded-homeTryScored) >= DIFF_TRY);
+    }
+    
+    @Override
+    public String toString() {
+        return "[" + String.valueOf(this.getHomeScore()) + " - " + String.valueOf(this.getAwayScore())+ "(" + homeTryScored + " - " + homeTryConceded + ")]"; 
     }
 }

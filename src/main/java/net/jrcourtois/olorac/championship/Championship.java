@@ -33,4 +33,11 @@ public interface Championship {
      * @return the rank which has been checked
      */
     Ranking checkRanking(Ranking r);
+
+    /**
+     * 
+     * @param aThis
+     * @return 
+     */
+    public Stats getStats(Team aThis);
 }

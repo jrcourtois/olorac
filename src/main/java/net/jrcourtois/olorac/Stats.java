@@ -232,7 +232,7 @@ public class Stats {
      * @param t the team concerned by the stats
      * @param matches
      */
-    private void computeStats(final Team t, final Iterable<Match> matches) {
+    protected void computeStats(final Team t, final Iterable<Match> matches) {
         for (Match m : matches) {
             try {
 

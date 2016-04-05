@@ -14,9 +14,8 @@ import net.jrcourtois.olorac.calendar.Ranking;
  *
  * @author jr
  */
-public class Top14 implements Championship{
-    
-    
+public class Top14 implements Championship {
+
     /**
      * The number of points awarded for a win.
      */
@@ -26,16 +25,14 @@ public class Top14 implements Championship{
      */
     private static final int NB_POINTS_FOR_DRAW = 2;
 
-
     @Override
     public final int getNbPoints(final Stats s) {
-        if (s == null) {
-            return 0;
-        }
-        if (s instanceof RugbyStats) {
-            return (NB_POINTS_FOR_WIN * s.getWins()) + NB_POINTS_FOR_DRAW * s.getDraws() + ((RugbyStats)s).getBonuses();
+        if (s != null && s instanceof RugbyStats) {
+            RugbyStats rs = (RugbyStats) s;
+            return (NB_POINTS_FOR_WIN * rs.getWins()) + NB_POINTS_FOR_DRAW * rs.getDraws() + rs.getBonuses();
         }
         return 0;
+
     }
 
     @Override
@@ -44,8 +41,8 @@ public class Top14 implements Championship{
         if (a == null || b == null) {
             return 0;
         }
-        Stats statsA = a.getStats();
-        Stats statsB = b.getStats();
+        RugbyStats statsA = (RugbyStats) a.getStats();
+        RugbyStats statsB = (RugbyStats) b.getStats();
         if (statsA == null || statsB == null) {
             return 0;
         }
@@ -70,5 +67,14 @@ public class Top14 implements Championship{
         return r;
     }
 
-    
+    /**
+     *
+     * @param aThis
+     * @return
+     */
+    @Override
+    public Stats getStats(Team aThis) {
+        return new RugbyStats(aThis);
+    }
+
 }

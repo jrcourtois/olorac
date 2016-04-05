@@ -187,7 +187,9 @@ public class Team implements Comparable<Team> {
      */
     public final Stats getStats() {
         if (stats == null) {
-            stats = new Stats(this);
+            System.out.println("Computing stats for " + this.getName());
+            stats = championship.getStats(this);
+            System.out.println(stats.toString());
         }
         return stats;
     }

@@ -88,4 +88,14 @@ public class Euro implements Championship {
         }
         return r;
     }
+
+    /**
+     * 
+     * @param aThis
+     * @return 
+     */
+    @Override
+    public Stats getStats(Team aThis) {
+        return new Stats(aThis);
+    }
 }

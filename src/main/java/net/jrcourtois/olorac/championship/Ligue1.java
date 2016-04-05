@@ -60,4 +60,13 @@ public class Ligue1 implements Championship {
     public Ranking checkRanking(Ranking r) {
         return r;
     }
+    /**
+     * 
+     * @param aThis
+     * @return 
+     */
+    @Override
+    public Stats getStats(Team aThis) {
+        return new Stats(aThis);
+    }
 }

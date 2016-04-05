@@ -130,7 +130,7 @@ public class JsonParser implements ChampionshipParser {
 
     private Integer getInt(JSONObject o, String key) {
         if (o.has(key)) {
-            return Integer.parseInt(o.getString("hScore"));
+            return Integer.parseInt(o.getString(key));
         } else {
             return null;
         }

@@ -8,6 +8,8 @@ package net.jrcourtois.olorac.parser;
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertNotNull;
 import junit.framework.TestCase;
+import net.jrcourtois.olorac.Match;
+import net.jrcourtois.olorac.RugbyScore;
 import net.jrcourtois.olorac.calendar.Calendar;
 import net.jrcourtois.olorac.championship.Top14;
 
@@ -28,8 +30,14 @@ public class JsonParserTest extends TestCase {
         assertNotNull(c);
         assertEquals(c.getChampionship().getClass(), Top14.class);
         assertEquals(182, c.getNbMatch());
-        assertEquals(8,c.getTeams());
-        
+        Match m = c.getMatch(1);
+        assertNotNull(m);
+        assertTrue(m.getScore() instanceof RugbyScore);
+        RugbyScore s = (RugbyScore) m.getScore();
+        assertNotNull(s);
+        assertEquals(22, s.getHomeScore());
+        assertEquals(27, s.getAwayScore());
+        System.out.println(c.getRanking(10));
     }
     
 }
