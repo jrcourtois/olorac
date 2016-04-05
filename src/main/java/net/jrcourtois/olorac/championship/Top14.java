@@ -5,10 +5,14 @@
  */
 package net.jrcourtois.olorac.championship;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import net.jrcourtois.olorac.Match;
 import net.jrcourtois.olorac.RugbyStats;
 import net.jrcourtois.olorac.Stats;
 import net.jrcourtois.olorac.Team;
 import net.jrcourtois.olorac.calendar.Ranking;
+import net.jrcourtois.olorac.exceptions.TeamNotInMatch;
 
 /**
  *
@@ -52,14 +56,36 @@ public class Top14 implements Championship {
         if (res != 0) {
             return res;
         }
+        // 2. points terrain obtenus dans les matchs entre équipes concernées ;
+        // 3. différence de points dans les matchs entre équipes concernées ;
+        // 4. différence entre essais marqués et concédés dans les matchs entre équipes concernées ;
+        res = compareMatches(a, b);
+        if (res != 0) {
+            return res;
+        }
+        // 5. différence de points 
         // comparing the goal difference
         res = statsA.getGoalDiff() - statsB.getGoalDiff();
         if (res != 0) {
             return res;
 
         }
-        // then compare the amount of goals scored
-        return statsA.getScoredGoal() - statsB.getScoredGoal();
+        // 6. différence entre essais marqués et concédés ;
+        res = statsA.getTryDiff() - statsB.getTryDiff();
+        if (res != 0) {
+            return res;
+        }
+        // 7. nombre de points marqués ;
+        res = statsA.getScoredGoal() - statsB.getScoredGoal();
+        if (res != 0) {
+            return res;
+        }
+        // 8. nombre d'essais marqués
+        res = statsA.getTry() - statsB.getTry();
+        if (res != 0) {
+            return res;
+        }
+        return 0;
     }
 
     @Override
@@ -75,6 +101,18 @@ public class Top14 implements Championship {
     @Override
     public Stats getStats(Team aThis) {
         return new RugbyStats(aThis);
+    }
+
+    private int compareMatches(Team a, Team b) {
+        for (Match m : a.getPlayedMatches()) {
+            if (b.playedMatch(m)) {
+                
+            }
+        }
+        // 2. points terrain obtenus dans les matchs entre équipes concernées ;
+        // 3. différence de points dans les matchs entre équipes concernées ;
+        // 4. différence entre essais marqués et concédés dans les matchs entre équipes concernées ;
+        return 0;
     }
 
 }

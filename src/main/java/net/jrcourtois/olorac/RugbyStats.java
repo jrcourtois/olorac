@@ -5,7 +5,6 @@
  */
 package net.jrcourtois.olorac;
 
-import java.util.List;
 import java.util.logging.Logger;
 
 /**
@@ -138,5 +137,13 @@ public class RugbyStats extends Stats {
     @Override
     public String toString() {
         return "[Wins: " + this.getWins() + ", BO: " + this.offBonuses() + ", BD: " + this.defBonuses() + "]";
+    }
+
+    public int getTryDiff() {
+        return getTry() - this.homeTryConceded - this.awayTryConceded;
+    }
+
+    public int getTry() {
+        return this.homeTryScored + this.awayTryScored;
     }
 }

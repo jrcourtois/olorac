@@ -284,4 +284,8 @@ public class Match {
     public Date getDate() {
         return date;
     }
+
+    public boolean teamPlayed(Team b) {
+        return homeTeam == b || awayTeam == b;
+    }
 }

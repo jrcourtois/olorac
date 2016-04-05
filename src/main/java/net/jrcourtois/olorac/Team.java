@@ -246,4 +246,8 @@ public class Team implements Comparable<Team> {
             return -1;
         }
     }
+
+    public boolean playedMatch(Match m) {
+        return m.getAwayTeam() == this || m.getHomeTeam() == this;
+    }
 }
